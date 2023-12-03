@@ -17,7 +17,7 @@
 
 
 <div style="display: inline_block; padding: 20px;" align="center">
-  <img src="https://raw.githubusercontent.com/MelchiadesMedeiros/MelchiadesMedeiros/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/MelchiadesMedeiros/MelchiadesMedeiros/output/github-snake-dark.svg">
 </div>
 
 
