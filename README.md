@@ -10,14 +10,14 @@
 
 
 <div style="display: inline_block; padding: 20px;" align="center">
-  <a href="https://github.com/MelchiadesMedeiros">
+  <a href="https://github.com/melchiadesmn">
   <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api?username=melchiadesmn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api/top-langs/?username=melchiadesmn&theme=dark&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 
 <div style="display: inline_block; padding: 20px;" align="center">
-  <img src="https://raw.githubusercontent.com/MelchiadesMedeiros/MelchiadesMedeiros/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/melchiadesmn/melchiadesmn/output/github-snake-dark.svg">
 </div>
 
 
