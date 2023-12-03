@@ -7,19 +7,15 @@
 * 📚 Conhecimentos: AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux, Shell Script, TypeScript, Python, PHP, MySQL.
 * 📫 Contato: [**LinkedIn**](https://www.linkedin.com/in/melchiadesmn/)
 
-
-
 <div style="display: inline_block; padding: 20px;" align="center">
   <a href="https://github.com/melchiadesmn">
-  <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api?username=melchiadesmn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api/top-langs/?username=melchiadesmn&theme=dark&include_all_commits=true&count_private=true&layout=compact">
+  <img height="180em" src="https://github-readme-stats-melchiadesmn.vercel.app/api?username=melchiadesmn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-melchiadesmn.vercel.app/api/top-langs/?username=melchiadesmn&theme=dark&include_all_commits=true&count_private=true&layout=compact">
 </div>
-
 
 <div style="display: inline_block; padding: 20px;" align="center">
   <img src="https://raw.githubusercontent.com/melchiadesmn/melchiadesmn/output/github-snake-dark.svg">
 </div>
-
 
  <div style="display: inline_block; padding: 20px;" align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
