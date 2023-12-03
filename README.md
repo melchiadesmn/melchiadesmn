@@ -5,7 +5,7 @@
 * 👨‍💻 Atualmente trabalho como DevOps na [**Mirum**](https://www.mirumagency.com/pt-br/).
 * 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela [**PUCPR**](https://www.pucpr.br/).
 * 📚 Conhecimentos: AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux, Shell Script, TypeScript, Python, PHP, MySQL.
-* 📫 Contato: [**LinkedIn**](https://www.linkedin.com/in/melchiades-medeiros/)
+* 📫 Contato: [**LinkedIn**](https://www.linkedin.com/in/melchiadesmn/)
 
 
 
