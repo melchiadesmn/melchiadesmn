@@ -3,8 +3,8 @@
 <h1 align="center" >Oi! Meu nome é Melchiades! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 * 👨‍💻 Atualmente trabalho como DevOps na [**Mirum**](https://www.mirumagency.com/pt-br/).
-* 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela [**PUCPR**](https://www.pucpr.br/).
-* 📚 Conhecimentos: AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux, Shell Script, Python, PHP, JavaScript, MySQL.
+* 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela [**PUCPR**](https://www.pucpr.br/).
+* 📚 Conhecimentos: AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux, Shell Script, TypeScript, Python, PHP, MySQL.
 * 📫 Contato: [**LinkedIn**](https://www.linkedin.com/in/melchiades-medeiros/)
 
 
@@ -17,7 +17,7 @@
 
 
 <div style="display: inline_block; padding: 20px;" align="center">
-  <img src="https://raw.githubusercontent.com/MelchiadesMedeiros/MelchiadesMedeiros/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/MelchiadesMedeiros/MelchiadesMedeiros/output/github-snake.svg">
 </div>
 
 
@@ -34,6 +34,6 @@
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
