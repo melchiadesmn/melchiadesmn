@@ -11,8 +11,8 @@
 
 <div style="display: inline_block; padding: 20px;" align="center">
   <a href="https://github.com/MelchiadesMedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelchiadesMedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelchiadesMedeiros&theme=dark&include_all_commits=true&count_private=true&layout=compact">
+  <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api?username=melchiadesmn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-pt63tzhhh-melchiadesmedeiros.vercel.app/api/top-langs/?username=melchiadesmn&theme=dark&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 
